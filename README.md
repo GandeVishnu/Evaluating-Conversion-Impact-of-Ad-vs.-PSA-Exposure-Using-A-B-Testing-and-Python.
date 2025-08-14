@@ -60,3 +60,8 @@ Overall, **PA or AD** showed better **ROI** and **conversion performance**, maki
 This project demonstrates how data-driven A/B testing, paired with tools like **Python** and **Power BI**, can optimize digital marketing campaigns. By analyzing exposure and conversion metrics, businesses can confidently choose the best strategy to maximize ROI and drive better results.
 
 ---
+
+## 📷 Dashboard Preview
+
+
+![Dashboard Screenshot](ecomm-sales-dashboard.png)
