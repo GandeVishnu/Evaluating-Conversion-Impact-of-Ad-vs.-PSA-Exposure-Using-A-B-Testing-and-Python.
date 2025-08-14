@@ -64,4 +64,4 @@ This project demonstrates how data-driven A/B testing, paired with tools like **
 ## 📷 Dashboard Preview
 
 
-![Dashboard Screenshot](ecomm-sales-dashboard.png)
+![Dashboard Screenshot](AB-Testing--Dashboard.png)
